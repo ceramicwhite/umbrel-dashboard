@@ -68,7 +68,7 @@
                       <img
                         v-else
                         class="app-stat-list-item-icon mr-2"
-                        :src="`https://getumbrel.github.io/umbrel-apps-gallery/${app.id}/icon.svg`"
+                        :src="`https://ceramicwhite.github.io/umbrel-apps-gallery/${app.id}/icon.svg`"
                     />
                     <div class="w-100">
                       <div class="d-flex justify-content-between align-items-baseline">
